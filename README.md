@@ -5,4 +5,4 @@ Universitas Kanjuruhan Malang
 2019
 
 No.  Nama                    NPM                  Nama Akun
-1.
+1. David Alvandis Bryan.A   180403010002        davidalvandiSS
